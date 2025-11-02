@@ -1,16 +1,30 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📝PROJECT: SkillVault — A blockchain-based credential verification system
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔹 One-liner ⚡️
 
-## Expanding the ESLint configuration
+A decentralized platform for issuing, storing, and verifying academic and professional credentials using blockchain technology.🔹 Extended Description (for GitHub README or presentation)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+SkillVault is a blockchain-powered credential verification platform designed to revolutionize how educational and professional qualifications are issued and authenticated.
+It enables institutions to issue verifiable digital certificates, while individuals can securely store and share their credentials with employers or universities.
+Built with transparency and immutability at its core, SkillVault eliminates fake certificates and simplifies trust in digital credentials.
+
+Key Features:✅
+
+🔐 Blockchain Security: Credentials are stored on an immutable ledger.
+
+🧾 Verifiable Certificates: Easy, one-click verification for employers or universities.
+
+🌍 Decentralized & Transparent: No central authority, full trust between issuers and verifiers.
+
+👤 User Control: Individuals own and manage their credentials.
+
+⚙️ Integration-ready: API support for educational platforms and organizations.
+
+
+
+
+Updated on Nov 2, 2025 🚀
